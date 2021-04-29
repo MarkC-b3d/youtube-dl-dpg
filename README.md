@@ -12,3 +12,9 @@ DearPyGUI also needs to be installed https://pypi.org/project/dearpygui/
 Once all 3 are installed you need to update the config.ini to reflect the full path where youtube-dl is installed to, including the .exe if on windows.
 
 Remember to save the config file.
+
+Run main.py
+
+Copy paste youtube links to the windows and press the button.
+
+Files will be downloaded where the script was executed.
